@@ -1,0 +1,6 @@
+train: D:\Product Development\Object_Bottle_Buds\train\images
+val: D:\Product Development\Object_Bottle_Buds\valid\images
+
+
+nc: 2
+names: ['bottle','buds']
